@@ -1,66 +1,18 @@
-# About  
-Hi 👋, I'm **Ravish Kumar** from Patna, Bihar.
+# 💫 About Me:
+Hi 👋, I'm Ravish Kumar<br>I'm a Data Analyst with a focus on business insights, dashboards, and problem-solving using data.<br><br><br>
 
-I'm a Data Analyst with a focus on business insights, dashboards, and problem-solving using data.
----
 
-## 🎯 Tools and Technologies
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravish-kumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ravish Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravishkumar88440@gmail.com) 
 
-- **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn) — for data analysis, visualization, and manipulation.  
-- **Databases:** SQL (MySQL, SQL Server) — skilled in writing complex queries for data extraction and analysis.  
-- **Data Visualization & BI Tools:** Power BI, Excel (including Pivot Tables and advanced formulas) — for creating insightful dashboards and reports.  
-- **Version Control:** Git and GitHub — for managing projects and collaboration.  
-- **Other Skills:** Data cleaning, Exploratory Data Analysis (EDA), and storytelling with data.  
-
----
-
-## 📫 Connect with Me
-
-[LinkedIn](https://www.linkedin.com/in/ravish-kumar-b180812b0/) | [GitHub](https://github.com/Ravish932)   
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ravish932&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ravish932&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravish932&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Ravish932&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Skills  
-Python | Pandas | NumPy | Matplotlib | Seaborn | SQL (MySQL, SQL Server) | Power BI | Excel | Git  
-
----
-
-## Projects
-
-### Apple Retail Sales SQL Project  
-**Objective:** Analyze millions of sales rows to identify trends, top-selling products, and seasonal performance to support business decisions.  
-**Key Highlights:**  
-- Developed complex SQL queries to extract insights from large datasets.  
-- Identified top-selling regions and products with detailed sales trends.  
-- Enhanced data quality through effective data cleaning techniques.
-
----
-
-### Walmart Sales Data Analysis  
-**Objective:** Conducted sales data analysis combining SQL and Python to uncover patterns and optimize inventory.  
-**Key Highlights:**  
-- Automated data extraction with SQL and conducted deep exploratory analysis in Python.  
-- Created meaningful visualizations to track sales performance by category and time period.  
-
----
-
-### Blinkit Sales Analysis (Excel Dashboard)  
-**Objective:** Build an interactive Excel dashboard to monitor sales metrics and delivery performance for Blinkit.  
-**Key Highlights:**  
-- Designed dynamic dashboards with pivot tables and charts.  
-- Provided actionable insights on delivery timelines, product popularity, and sales trends.  
-
----
-
-### HR Analytics Dashboard (Excel)  
-**Objective:** Analyze employee data to identify retention risks, performance trends, and salary distribution.  
-**Key Highlights:**  
-- Used advanced Excel functions to segment employees by age, salary slab, and performance.  
-- Delivered insights to improve HR decision-making.
-
----
-
-## Certifications  
-- Google Data Analytics Professional Certificate  
-- Coursera SQL for Data Science  
-- Python for Data Analysis (Simplilearn)  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
