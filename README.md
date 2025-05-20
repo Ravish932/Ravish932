@@ -1,17 +1,66 @@
-<h1 align="center">Hi 👋, I'm Ravish Kumar</h1>
-<h3 align="center">I'm a Data Analyst with a focus on business insights, dashboards, and problem-solving using data.</h3>
+# About  
+Hi 👋, I'm **Ravish Kumar** from Patna, Bihar.
 
-- 📫 How to reach me **ravishkumar88440@gmail.com**
+I'm a Data Analyst with a focus on business insights, dashboards, and problem-solving using data.
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_TB7BdDkxGS_fJPihTmYPRDWv3Opj3cu/view?usp=sharing](https://drive.google.com/file/d/1_TB7BdDkxGS_fJPihTmYPRDWv3Opj3cu/view?usp=sharing)
+## 🎯 Tools and Technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@ravishkr777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ravishkr777" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ravish kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravish kumar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ravish_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ravish_kumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/@ravish_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@ravish_kumar" height="30" width="40" /></a>
-</p>
+- **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn) — for data analysis, visualization, and manipulation.  
+- **Databases:** SQL (MySQL, SQL Server) — skilled in writing complex queries for data extraction and analysis.  
+- **Data Visualization & BI Tools:** Power BI, Excel (including Pivot Tables and advanced formulas) — for creating insightful dashboards and reports.  
+- **Version Control:** Git and GitHub — for managing projects and collaboration.  
+- **Other Skills:** Data cleaning, Exploratory Data Analysis (EDA), and storytelling with data.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/ravish-kumar-b180812b0/) | [GitHub](https://github.com/Ravish932)   
+
+---
+
+## Skills  
+Python | Pandas | NumPy | Matplotlib | Seaborn | SQL (MySQL, SQL Server) | Power BI | Excel | Git  
+
+---
+
+## Projects
+
+### Apple Retail Sales SQL Project  
+**Objective:** Analyze millions of sales rows to identify trends, top-selling products, and seasonal performance to support business decisions.  
+**Key Highlights:**  
+- Developed complex SQL queries to extract insights from large datasets.  
+- Identified top-selling regions and products with detailed sales trends.  
+- Enhanced data quality through effective data cleaning techniques.
+
+---
+
+### Walmart Sales Data Analysis  
+**Objective:** Conducted sales data analysis combining SQL and Python to uncover patterns and optimize inventory.  
+**Key Highlights:**  
+- Automated data extraction with SQL and conducted deep exploratory analysis in Python.  
+- Created meaningful visualizations to track sales performance by category and time period.  
+
+---
+
+### Blinkit Sales Analysis (Excel Dashboard)  
+**Objective:** Build an interactive Excel dashboard to monitor sales metrics and delivery performance for Blinkit.  
+**Key Highlights:**  
+- Designed dynamic dashboards with pivot tables and charts.  
+- Provided actionable insights on delivery timelines, product popularity, and sales trends.  
+
+---
+
+### HR Analytics Dashboard (Excel)  
+**Objective:** Analyze employee data to identify retention risks, performance trends, and salary distribution.  
+**Key Highlights:**  
+- Used advanced Excel functions to segment employees by age, salary slab, and performance.  
+- Delivered insights to improve HR decision-making.
+
+---
+
+## Certifications  
+- Google Data Analytics Professional Certificate  
+- Coursera SQL for Data Science  
+- Python for Data Analysis (Simplilearn)  
