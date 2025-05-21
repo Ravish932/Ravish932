@@ -1,8 +1,3 @@
-Languages and Tools:
-mssql
-mysql
-pandas
-python
 # About  
 Hi 👋, I'm **Ravish Kumar** .
 
@@ -76,6 +71,7 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | SQL (MySQL, SQL Server) | Power
 
 ### Blinkit Sales Analysis (Excel Dashboard)  
 **Objective:**
+
 This project analyzes Blinkit's sales data using an interactive Excel dashboard.
 It provides insights into sales trends, top-performing items, and outlet performance.
 **Some Key Finding:**  
