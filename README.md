@@ -3,8 +3,13 @@
 <h3 align="center">I'm a Data Analyst with a focus on business insights, dashboards, and problem-solving using data.</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00B8D4&width=435&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Excel" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
 </p>
+
 
 ---
 
