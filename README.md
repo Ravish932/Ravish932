@@ -1,5 +1,5 @@
 # About  
-Hi 👋, I'm **Ravish Kumar** from Patna, Bihar.
+Hi 👋, I'm **Ravish Kumar** .
 
 I'm a Data Analyst with a focus on business insights, dashboards, and problem-solving using data.
 ---
@@ -35,9 +35,13 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | SQL (MySQL, SQL Server) | Power
 **Objective:** 
 
 -Understand the distribution of app categories.
+
 -Check Pricing trends across categories.
+
 -How many apps are there on Google Play Store which get 5 ratings.
+
 -Analyze app installs in each categories.
+
 -Which category has largest number of installations.
 
 **Some Key Finding:** 
