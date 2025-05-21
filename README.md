@@ -1,3 +1,8 @@
+Languages and Tools:
+mssql
+mysql
+pandas
+python
 # About  
 Hi 👋, I'm **Ravish Kumar** .
 
