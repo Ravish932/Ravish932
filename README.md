@@ -33,13 +33,15 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | SQL (MySQL, SQL Server) | Power
 
 ### EDA of Google Play Store Data 
 **Objective:** 
--Understand the distribution of app categories
--Check Pricing trends across categories
--How many apps are there on Google Play Store which get 5 ratings
--Analyze app installs in each categories
--Which category has largest number of installations
 
-**Some Key Finding:**  
+-Understand the distribution of app categories.
+-Check Pricing trends across categories.
+-How many apps are there on Google Play Store which get 5 ratings.
+-Analyze app installs in each categories.
+-Which category has largest number of installations.
+
+**Some Key Finding:** 
+
 -Most Popular Category: Games and Tools dominate the world.
 
 -Free vs Paid Apps: Majority of Apps are free; Paid apps are fewer and not necessarily higer-rated.
