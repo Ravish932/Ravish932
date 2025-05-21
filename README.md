@@ -6,10 +6,14 @@ I'm a Data Analyst with a focus on business insights, dashboards, and problem-so
 
 ## 🎯 Tools and Technologies
 
-- **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn) — for data analysis, visualization, and manipulation.  
-- **Databases:** SQL (MySQL, SQL Server) — skilled in writing complex queries for data extraction and analysis.  
-- **Data Visualization & BI Tools:** Power BI, Excel (including Pivot Tables and advanced formulas) — for creating insightful dashboards and reports.  
-- **Version Control:** Git and GitHub — for managing projects and collaboration.  
+- **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn) — for data analysis, visualization, and manipulation.
+
+- **Databases:** SQL (MySQL, SQL Server) — skilled in writing complex queries for data extraction and analysis.
+ 
+- **Data Visualization & BI Tools:** Power BI, Excel (including Pivot Tables and advanced formulas) — for creating insightful dashboards and reports.
+
+- **Version Control:** Git and GitHub — for managing projects and collaboration.
+  
 - **Other Skills:** Data cleaning, Exploratory Data Analysis (EDA), and storytelling with data.  
 
 ---
@@ -37,9 +41,13 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | SQL (MySQL, SQL Server) | Power
 
 **Some Key Finding:**  
 -Most Popular Category: Games and Tools dominate the world.
+
 -Free vs Paid Apps: Majority of Apps are free; Paid apps are fewer and not necessarily higer-rated.
+
 -There 271 apps in play store which get 5 rating.
+
 -Most Installed Category: Apps in Communication and Socia have the highest install count.
+
 -Games and Communication have the largest number of installation.
 
 ---
