@@ -46,31 +46,6 @@
 
 ---
 
-## 💼 Projects
-
-### 📊 [Sales Performance Analysis – Power BI](https://datascienceportfolio.io/ravishkumar/project/sales-performance-analysis)
-Analyzed product-wise, region-wise, and monthly sales performance. Created a Power BI dashboard showing KPIs, trends, and profit margins.
-
-### 🛒 [Blinkit Sales Analysis – Excel Dashboard](https://github.com/ravishkumarpatna/Blinkit-Sales-Excel-Dashboard)
-Interactive Excel dashboard showing delivery trends, top-selling products, and sales growth.
-
-### 🧾 [Walmart Sales Data Analysis – Python + SQL](https://github.com/ravishkumarpatna/Walmart-Sales-Analysis)
-Used SQL for extraction and Python (Pandas + Seaborn) for visualization. Uncovered peak sales periods and profitable categories.
-
-### 🍎 [Apple Retail SQL Analysis](https://github.com/ravishkumarpatna/Apple-Retail-SQL)
-Analyzed millions of Apple retail sales rows using advanced SQL queries — built dashboards to visualize trends and store performance.
-
----
-
-
-## 📜 Certificates
-
-<div align="center">
-  <img src="https://www.hackerrank.com/certificates/97fe2b6ff9da" alt="Python Certificate" width="300" style="margin-right: 10px;"/>
-  <img src="https://your-certificate-image-link-2.com" alt="SQL Certificate" width="300"/>
-</div>
-
----
 
 ## 🌐 Connect With Me
 
@@ -87,6 +62,5 @@ Analyzed millions of Apple retail sales rows using advanced SQL queries — buil
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravishkumarpatna&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ravishkumarpatna&show_icons=true&theme=radical" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlign=middle" />
 </p>
